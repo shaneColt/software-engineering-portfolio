@@ -1,0 +1,28 @@
+Module: Software engineering
+
+Brief A
+I would choose waterfall for the aegis flight control software, because it is very hight; the required behaviour has been specified, safety risk is essential and extremely high. A defect could endager lives, so systematic verification is essential. The waterfall allows each stage to be carefully documented, tested and reviewed before moving to the next stage. It also provides the traceability and documentiation needed for certification. The main risk is that if requirements do change later, it can be diffictult and expensive to go back and make changes 
+
+
+
+
+
+
+Brief B
+I would choose RAD for the riverside bakery marketing webisite because it has a short three week deadline and the owner is unsure about exactly what she wants. RAD allows developers to create prototypes quickly and get regular feedback from the customer. This means changes has low technical and safety risk, so extensive documentation is not necessary. The main risk is focousinbg on speed could result in rushed development.
+
+
+
+
+
+
+
+
+Brief C
+I would choose the incremental model for the campusCircle community app because the requirements are expected to change based on feedback from students. The team can first release a basic version with important features and then add or improve features in later incremrnts. This suits the one month deadline and allows the team to respond to user feedback quickly. The main risk would be the frequent changes could create technical problems if the team does not plan each increment carefully 
+
+Task 3
+For my hypothetical project, I would choose and incremental process model for developing a mobile app that helps students find and join university activites. I would choose this model because the requremetns would not be completyly known at the beginning. Students might use an early version and identify features or improvements that were not considered during the initial planning.
+The application could inititaly provide club browsing and event registration. After releasing the first increment, feedback could be collected and used to priortise features such as messaging, recommendations, or improved event discovery. This would allow useful functionality to reach users quickly.
+The main risk would be technical debt caused by having to change requirements. I would manage this through a simple but flexible architecture
+This week showed me that the must suitable process model depends on requirements, risk, time, constraints, customer involvement and documentation needs rather than simply choosing one model for every projects
