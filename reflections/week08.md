@@ -17,3 +17,12 @@ shared a photo with someone
 create a group chat 
 
 I would use a stopwatch to record how long each person takes to complete each task. I would carry out the testing over one session and compare the result to see which tasks are easiest which take the longest 
+
+Task 2 - critique My Own Approach 
+
+One possible problem with my measurements is that some people might already be very familiar with WhatsApp. for example, someone who uses the app every day will probably compete the tasks much faster than someone who has only recently started using it. This could make the results unfair because the testing might measure how experienced someone is rather than how easy the application actually is to use.
+
+Another limitation is that only testing with 5 people gives a relatively small sample. their opinions might not represent the experience of all WhatApp users
+
+Proposed Improvements:
+to make the measurement more reliable, I would try to include people with different levels of experience using WhatsApp. I would also give everyone the same instructions and ask them to complete the same tasks under similar conditions. if possible, I would increase the number of participants to around 10 people. this would give me a better range of results and make the overall findings more trustworthy
